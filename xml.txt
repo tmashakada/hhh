@@ -1,0 +1,3 @@
+https://howtodoinjava.com/java/xml/read-xml-dom-parser-example/
+https://howtodoinjava.com/java/xml/read-xml-dom-parser-example/
+https://github.com/husseinterek/ReadXML/blob/master/src/com/programmer/gate/ReadXMLWithDOM.java
